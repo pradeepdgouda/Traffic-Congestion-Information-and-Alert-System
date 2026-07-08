@@ -1,0 +1,6 @@
+| Method | Endpoint      | Description       |
+| ------ | ------------- | ----------------- |
+| POST   | /signup       | User Registration |
+| POST   | /login        | User Login        |
+| GET    | /routes       | Saved Routes      |
+| POST   | /notification | Send Notification |
