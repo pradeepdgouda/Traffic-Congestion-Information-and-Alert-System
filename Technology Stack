@@ -1,0 +1,8 @@
+   Technology	                            Purpose
+---------------------------------------------------------
+   Flutter	                            Mobile Application
+   Django	                            Backend API
+   SQLite	                            Database
+   Firebase	                            Push Notifications
+   Google Maps API	                    Maps
+   Google Directions API	            Traffic & Routes
